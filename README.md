@@ -45,15 +45,6 @@ Excel/CSV – dataset storage & cleaning
 
 GitHub – project hosting and sharing
 
-🚀 Outcome
-
-This dashboard provides:
-
-A quick financial overview of McDonald’s performance
-
-Insights into profitability and growth trends
-
-An example of how financial data can be transformed into business insights
 
 
 
@@ -62,6 +53,5 @@ An example of how financial data can be transformed into business insights
 
 
 
-description and readme
 
-ChatGPT can make mistakes. Check importa
+
